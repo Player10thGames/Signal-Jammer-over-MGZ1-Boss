@@ -1,1 +1,6 @@
-
+{
+	"hud_flash_white": { "File": "Flash.png", "Rect": "0,0,1000,224",  "Center": "500,0" },
+	"hud_flash_white2": { "File": "Flash.png", "Rect": "0,224,1000,224",  "Center": "500,0" },
+	"hud_flash_red": { "File": "FlashC.png", "Rect": "0,0,1000,224",  "Center": "500,0" },
+	"hud_flash_yellow": { "File": "FlashC.png", "Rect": "0,224,1000,224",  "Center": "500,0" },
+}
